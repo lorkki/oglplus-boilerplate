@@ -12,7 +12,7 @@ Other library dependencies are included in the repository as git submodules. Aft
 
 Alternatively, you can do this while cloning the repository:
 
-    git clone  --recursive
+    git clone --recursive https://github.com/lorkki/oglplus-boilerplate.git
 
 Note: As an exception, GLEW is included as a pruned-down snapshot in the repository itself, to avoid depending on GNU Make on Windows.
 
